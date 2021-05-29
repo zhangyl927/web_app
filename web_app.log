@@ -1,0 +1,67 @@
+{"level":"DEBUG","time":"2021-05-28T21:33:45.004+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-28T21:33:47.059+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"DEBUG","time":"2021-05-29T20:19:39.232+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T20:19:39.292+0800","caller":"mysql/mysql.go:18","msg":"connect DB failed","error":"dial tcp: lookup tcp/#{cfg.Port}: getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2021-05-29T20:20:22.132+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T20:20:22.215+0800","caller":"mysql/mysql.go:18","msg":"connect DB failed","error":"dial tcp: lookup tcp/#{cfg.Port}: getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2021-05-29T20:23:42.380+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T20:25:09.750+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T20:27:33.151+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T20:28:10.871+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T20:28:41.406+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T20:31:45.391+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T20:31:45.408+0800","caller":"mysql/mysql.go:18","msg":"connect DB failed","error":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"DEBUG","time":"2021-05-29T21:12:55.994+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:12:56.015+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"DEBUG","time":"2021-05-29T21:16:42.817+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:17:06.803+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:17:06.816+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:17:11.381+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T21:18:35.816+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"DEBUG","time":"2021-05-29T21:18:46.243+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:18:53.695+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:18:53.701+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:25:47.443+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:25:47.460+0800","caller":"mysql/mysql.go:25","msg":"connect DB failed","error":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"DEBUG","time":"2021-05-29T21:27:07.214+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:27:07.232+0800","caller":"mysql/mysql.go:25","msg":"connect DB failed","error":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"DEBUG","time":"2021-05-29T21:27:35.031+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:27:35.053+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed","error":"dial tcp :0: connectex: The requested address is not valid in its context."}
+{"level":"DEBUG","time":"2021-05-29T21:28:14.942+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:28:14.961+0800","caller":"mysql/mysql.go:22","msg":"connect DB failed","error":"dial tcp 127.0.0.1:0: connectex: The requested address is not valid in its context."}
+{"level":"DEBUG","time":"2021-05-29T21:28:47.186+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:29:14.044+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:29:14.044+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:29:19.688+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:29:19.709+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}
+{"level":"DEBUG","time":"2021-05-29T21:30:14.994+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:30:15.015+0800","caller":"mysql/mysql.go:23","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}
+{"level":"DEBUG","time":"2021-05-29T21:32:24.883+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:32:29.719+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:32:29.720+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:33:19.022+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:33:22.050+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:33:22.066+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:33:55.486+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:33:55.516+0800","caller":"mysql/mysql.go:29","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2021-05-29T21:35:40.844+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:35:40.869+0800","caller":"mysql/mysql.go:29","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2021-05-29T21:36:45.407+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:36:45.436+0800","caller":"mysql/mysql.go:30","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2021-05-29T21:36:57.781+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:36:57.821+0800","caller":"mysql/mysql.go:30","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2021-05-29T21:37:04.964+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:37:04.992+0800","caller":"mysql/mysql.go:30","msg":"connect DB failed","error":"Error 1045: Access denied for user ''@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2021-05-29T21:37:34.376+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:37:36.073+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:37:36.088+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:38:47.996+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:38:48.016+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"dial tcp: lookup tcp/%!s(int=3306): getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2021-05-29T21:40:10.789+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"ERROR","time":"2021-05-29T21:40:10.816+0800","caller":"mysql/mysql.go:30","msg":"connect DB failed","error":"dial tcp: lookup tcp/%!s(int=3306): getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2021-05-29T21:41:12.288+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:41:15.936+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:41:15.939+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2021-05-29T21:41:38.006+0800","caller":"web_app/main.go:35","msg":"logger init success.."}
+{"level":"INFO","time":"2021-05-29T21:41:40.573+0800","caller":"web_app/main.go:72","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-05-29T21:41:40.591+0800","caller":"web_app/main.go:81","msg":"Server exiting"}
